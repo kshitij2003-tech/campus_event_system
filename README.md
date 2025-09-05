@@ -121,5 +121,6 @@ Example – Popularity Report:
 
 This project helped me understand connecting Flask with a database, handling routes, and writing raw SQL queries. Testing on Postman made me see the flow of APIs clearly. It was a good hands-on experience for learning backend stuff.
 
-## ChatGPT link
+## ChatGPT link to the chat which helped me do this project in less time
+
 **https://chatgpt.com/share/68bb384e-a838-8000-9136-765d56a4b850**
