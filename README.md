@@ -16,17 +16,17 @@ It’s not a full-fledged app with a front-end, but it works like a prototype to
 
 ### 1. Clone the repo
 ```bash
-git clone 
+git clone https://github.com/kshitij2003-tech/campus_event_system.git
 cd campus_event_system
 ```
 
-### 2. Create a Virtual Environment (Windows)
+### 2. Create a Virtual Environment (Windows) be in the same directory where the project is stored
 ```bash
 python -m venv venv
 venv\Scripts\activate
 ```
 
-### 3. Install Required Packages
+### 3. Install Required Packages ()
 ```bash
 pip install flask flask_sqlalchemy sqlalchemy
 ```
@@ -124,3 +124,4 @@ This project helped me understand connecting Flask with a database, handling rou
 ## ChatGPT link to the chat which helped me do this project in less time
 
 **https://chatgpt.com/share/68bb384e-a838-8000-9136-765d56a4b850**
+
